@@ -25,4 +25,4 @@ The program:
 ## ▶️ Running the Program
 
 Make sure you have Python installed.  
-Then run the script in your terminal
+Then run cs_warmup.py in your terminal
